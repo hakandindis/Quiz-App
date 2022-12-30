@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_mobile_template/core/components/text/custom_text.dart';
+
+import '../text/custom_text.dart';
 
 /// Since [AppBar] structure will be the same
 /// on many pages of the application, a common structure should be established.
